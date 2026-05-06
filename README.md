@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">My name is Maximilian, a 23-year-old Software Engineering student in my final year, based in Salta, Argentina. I specialize in Full-Stack web development, crafting end-to-end solutions—from dynamic frontend interfaces with React to robust backends using Node.js and Supabase. I'm passionate about turning complex problems into functional software, whether it's building customized point-of-sale systems for local businesses or developing scalable SaaS platforms.</p>
+<p align="left">My name is Maximiliano, a 23-year-old Software Engineering student in my final year, based in Salta, Argentina. I specialize in Full-Stack web development, crafting end-to-end solutions—from dynamic frontend interfaces with React to robust backends using Node.js and Supabase. I'm passionate about turning complex problems into functional software, whether it's building customized point-of-sale systems for local businesses or developing scalable SaaS platforms.</p>
 
 ###
 
